@@ -1,0 +1,7 @@
+C:\Users\leizh\leiWebDotnet\MyWebApp\publish\MyWebApp.exe
+C:\Users\leizh\leiWebDotnet\MyWebApp\publish\appsettings.Development.json
+C:\Users\leizh\leiWebDotnet\MyWebApp\publish\appsettings.json
+C:\Users\leizh\leiWebDotnet\MyWebApp\publish\MyWebApp.dll
+C:\Users\leizh\leiWebDotnet\MyWebApp\publish\MyWebApp.deps.json
+C:\Users\leizh\leiWebDotnet\MyWebApp\publish\MyWebApp.runtimeconfig.json
+C:\Users\leizh\leiWebDotnet\MyWebApp\publish\MyWebApp.pdb
