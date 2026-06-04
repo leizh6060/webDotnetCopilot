@@ -23,3 +23,10 @@ jobs:
         
       - name: Publish (Package)
         run: dotnet publish --configuration Release --output ./publish
+      
+    # . Save the published folder as a downloadable GitHub artifact
+      - name: Upload Build Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: production-web-package
+          path: ./publish
